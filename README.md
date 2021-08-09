@@ -2,7 +2,7 @@
 
 I'm a Brazilian Software Developer 👨‍💻. 
 
-- 🔭 I’m currently an intern at [Instituto Atlântico](https://www.atlantico.com.br)
+- 🔭 I’m currently an System Analyst at [Instituto Atlântico](https://www.atlantico.com.br)
 - 💻 Currently working with GO
 - 📫 Studying Node.js and React.js at [@RocketSeat](https://github.com/RocketSeat)
 
