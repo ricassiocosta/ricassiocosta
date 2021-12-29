@@ -2,8 +2,8 @@
 
 I'm a Brazilian Software Developer 👨‍💻. 
 
-- 🔭 I’m a System Analyst at [Instituto Atlântico](https://www.atlantico.com.br)
-- 💻 Currently working with microservices in GO
+- 🔭 I’m a Software Engineer at [Instituto Atlântico](https://www.atlantico.com.br)
+- 💻 Currently working with microservices in GO focusing on security
 - 📫 Studying Node.js and React.js at [@RocketSeat](https://github.com/RocketSeat)
 
 #### You can find me (and read some of my articles) on:
