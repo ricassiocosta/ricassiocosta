@@ -2,7 +2,7 @@
 
 I'm a Brazilian Software Engineer 👨‍💻. 
 
-- 🔭 I’m a Security Software Engineer at [Hewlett-Packard Enterprise](https://www.hpe.com/br/pt/home.html)
+- 🔭 I’m a Security Software Engineer at [@hewlettpackard](https://github.com/hewlettpackard)
 - 💻 Currently working with microservices in GO focusing on security
 - 📫 Studying Node.js and React.js at [@RocketSeat](https://github.com/RocketSeat)
 
