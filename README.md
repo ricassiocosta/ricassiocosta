@@ -1,8 +1,8 @@
 ### Hello there! I'm Ricássio (🗨 hree-kah-cee-oh) 😉
 
-I'm a Brazilian Software Developer 👨‍💻. 
+I'm a Brazilian Software Engineer 👨‍💻. 
 
-- 🔭 I’m a Software Engineer at [Instituto Atlântico](https://www.atlantico.com.br)
+- 🔭 I’m a Security Software Engineer at [Hewlett-Packard Enterprise](https://www.hpe.com/br/pt/home.html)
 - 💻 Currently working with microservices in GO focusing on security
 - 📫 Studying Node.js and React.js at [@RocketSeat](https://github.com/RocketSeat)
 
