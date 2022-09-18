@@ -1,3 +1,5 @@
+<img align="right" src="./.github/programming.png" width="400"  > </img>
+
 ### Hello there! I'm Ricássio (🗨 hree-kah-cee-oh) 😉
 
 I'm a Brazilian Software Engineer 👨‍💻. 
@@ -8,3 +10,6 @@ I'm a Brazilian Software Engineer 👨‍💻.
 
 #### You can find me (and read some of my articles) on:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricassiocosta/)](https://www.linkedin.com/in/ricassiocosta/)
+
+ <p >&nbsp; <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ricassiocosta&theme=algolia" width="380" > </img>
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ricassiocosta&theme=algolia" alt="ricassiocosta" width="380" /></p>
