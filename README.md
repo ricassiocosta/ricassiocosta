@@ -14,4 +14,4 @@ I'm a Brazilian Software Engineer 👨‍💻.
  <p >&nbsp; <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ricassiocosta&theme=algolia" width="380" > </img>
  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ricassiocosta&theme=algolia" alt="ricassiocosta" width="380" /></p>
 
-![Snake animation](https://github.com/kelvinfochesato/ricassiocosta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ricassiocosta/ricassiocosta/blob/output/github-contribution-grid-snake.svg)
