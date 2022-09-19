@@ -11,7 +11,11 @@ I'm a Brazilian Software Engineer 👨‍💻.
 #### You can find me (and read some of my articles) on:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricassiocosta/)](https://www.linkedin.com/in/ricassiocosta/)
 
- <p >&nbsp; <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ricassiocosta&theme=algolia" width="380" > </img>
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ricassiocosta&theme=algolia" alt="ricassiocosta" width="380" /></p>
-
-![Snake animation](https://github.com/ricassiocosta/ricassiocosta/blob/output/github-contribution-grid-snake.svg)
+### Some GitHub stats:
+ <dl>
+  <dd>
+    <img style="margin-left: 30px;" align="left" src="https://github-readme-stats.vercel.app/api?username=ricassiocosta&theme=algolia" width="380" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ricassiocosta&theme=algolia" alt="ricassiocosta" width="380" />
+  </dd>
+ </dl>
+<img  align="left" src="https://github.com/ricassiocosta/ricassiocosta/blob/output/github-contribution-grid-snake.svg" width="100%"/>
