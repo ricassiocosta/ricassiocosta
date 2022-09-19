@@ -8,8 +8,9 @@ I'm a Brazilian Software Engineer 👨‍💻.
 - 💻 Currently working with microservices in GO focusing on security
 - 📫 Studying Node.js and React.js at [@RocketSeat](https://github.com/RocketSeat)
 
-#### You can find me (and read some of my articles) on:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricassiocosta/)](https://www.linkedin.com/in/ricassiocosta/)
+#### You can find me on:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricassiocosta/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kozta_/)
 
 ### Some GitHub stats:
  <dl>
