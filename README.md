@@ -6,7 +6,7 @@
 - 🔭 I’m a Cloud Engineer at [@hewlettpackard](https://github.com/hewlettpackard)
 - 💻 Currently working with AuthN, IAM and Identity Federation!
 - 📫 Studying software architectures, designs and infrastructure best practices
-- 📄 Full resume [here](https://s3.amazonaws.com/ricassiocosta.me/resume/ricassiocosta.pdf)
+- 📄 Full resume <a target="blank" href="https://s3.amazonaws.com/ricassiocosta.me/resume/ricassiocosta.pdf" >here</a>
 
 #### You can find me on:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricassiocosta/)
